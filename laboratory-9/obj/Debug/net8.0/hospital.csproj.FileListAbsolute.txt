@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\laba-9\hospital\bin\Debug\net8.0\hospital.exe
+C:\Users\Admin\source\repos\laba-9\hospital\bin\Debug\net8.0\hospital.deps.json
+C:\Users\Admin\source\repos\laba-9\hospital\bin\Debug\net8.0\hospital.runtimeconfig.json
+C:\Users\Admin\source\repos\laba-9\hospital\bin\Debug\net8.0\hospital.dll
+C:\Users\Admin\source\repos\laba-9\hospital\bin\Debug\net8.0\hospital.pdb
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\hospital.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\hospital.AssemblyInfo.cs
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\hospital.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\hospital.dll
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\refint\hospital.dll
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\hospital.pdb
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\hospital.genruntimeconfig.cache
+C:\Users\Admin\source\repos\laba-9\hospital\obj\Debug\net8.0\ref\hospital.dll
